@@ -1,0 +1,10 @@
+CUSTOMER ANALYTICS PROJECT - ANALYSIS PLAN
+
+1. Inspect the dataset structure and data types.
+2. Check for missing values and duplicate records.
+3. Clean and preprocess the data.
+4. Perform exploratory data analysis.
+5. Identify important customer patterns and trends.
+6. Create meaningful visualizations.
+7. Generate business insights from the analysis.
+8. Prepare the final project report and presentation.
