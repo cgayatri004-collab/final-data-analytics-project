@@ -1,0 +1,12 @@
+,Age,Total_Orders,Total_Spending,Average_Order_Value,Discount_Percentage,Website_Visits,Avg_Session_Duration_Min,Satisfaction_Score,Support_Tickets,Refund_Requests,Customer_Lifetime_Value
+Age,1.0,0.0,0.0,0.0,-0.01,0.0,0.01,0.01,-0.0,-0.01,0.01
+Total_Orders,0.0,1.0,0.5,-0.01,-0.0,0.01,0.0,-0.0,0.01,0.01,0.47
+Total_Spending,0.0,0.5,1.0,0.79,-0.01,0.01,0.01,-0.0,-0.01,0.02,0.88
+Average_Order_Value,0.0,-0.01,0.79,1.0,-0.01,0.0,0.0,0.0,-0.01,0.01,0.74
+Discount_Percentage,-0.01,-0.0,-0.01,-0.01,1.0,0.0,0.01,-0.01,0.01,0.01,-0.01
+Website_Visits,0.0,0.01,0.01,0.0,0.0,1.0,0.01,-0.0,-0.01,0.0,0.0
+Avg_Session_Duration_Min,0.01,0.0,0.01,0.0,0.01,0.01,1.0,-0.01,-0.0,-0.01,0.01
+Satisfaction_Score,0.01,-0.0,-0.0,0.0,-0.01,-0.0,-0.01,1.0,-0.01,-0.01,-0.01
+Support_Tickets,-0.0,0.01,-0.01,-0.01,0.01,-0.01,-0.0,-0.01,1.0,-0.0,-0.0
+Refund_Requests,-0.01,0.01,0.02,0.01,0.01,0.0,-0.01,-0.01,-0.0,1.0,0.01
+Customer_Lifetime_Value,0.01,0.47,0.88,0.74,-0.01,0.0,0.01,-0.01,-0.0,0.01,1.0
