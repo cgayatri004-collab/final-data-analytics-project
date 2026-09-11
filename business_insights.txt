@@ -1,0 +1,23 @@
+BUSINESS INSIGHTS AND RECOMMENDATIONS
+
+KEY BUSINESS INSIGHTS
+
+1. Product Category Performance: Product categories differ in their contribution to total customer spending. The highest-spending category should be treated as a key revenue-driving category, while lower-performing categories may require targeted promotions or product improvements.
+
+2. Subscription Performance: Subscription types show differences in customer count, spending and customer lifetime value. Higher-value subscription segments represent opportunities for retention and upselling.
+
+3. Acquisition Channel Performance: Customer acquisition channels contribute differently to the customer base and spending. The strongest-performing channels should receive greater marketing focus and budget allocation.
+
+4. Churn Pattern: Churn status can be compared with average spending and lifetime value to identify whether customers at risk of leaving represent significant revenue or customer value.
+
+5. Customer Value and Behaviour: Total orders, total spending and customer lifetime value provide important indicators of customer value. Customers with higher purchasing activity can be targeted for retention and loyalty initiatives.
+
+DATA-DRIVEN RECOMMENDATIONS
+
+1. Focus marketing investment on the highest-performing acquisition channels and product categories identified in the dashboard. This can improve the efficiency of customer acquisition and revenue generation.
+
+2. Develop targeted retention and loyalty campaigns for valuable customers, especially customers showing high spending or lifetime value and customers associated with churn risk. Personalized offers and engagement campaigns can help improve retention.
+
+CONCLUSION
+
+The analysis shows that customer spending, subscription behaviour, acquisition channels, customer value and churn are important business dimensions. The Power BI dashboard enables management to monitor these metrics interactively and make data-driven decisions.
